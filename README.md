@@ -1,17 +1,15 @@
-# OpenDataDay Workshop UAM AZC (CDMX México)
+# Fedora Women Day "Python 101" Workshop UAM AZC (CDMX México)
 
 <p align="center">
-<img src="./images/ODDlogoCDMX.png">
+<img src="./images/fwd.png">
 </p>
 
 
 > The main languague of the final material is spanish, this english page is only for 
 > references in external sites. 
 
-This repository has the open data day workshop content for the UAM AZC
-
-The main theme of this workshop is analyzing the crime issues around our university.
-The data sources are open data from government and citizens. 
+This repository has the Fedoras Women Day "Python 101" workshop content for the UAM AZC
+ 
 
 ## Prerequisites
 
@@ -20,9 +18,9 @@ The technical prerequisites are listed [here](Prerrequisitos.md).
 This workshop was designed to show the use and potential of Open Data. 
 If you know how to:
 
-1. Use a computer.
-2. Install Programs in computers.
-3. You are no afraid to learn new things.
+1. U a computer.
+2. Open a web browser.
+3. You are not afraid to learn new things.
 
 
 you can take this workshop also it is free. :smile:
@@ -32,29 +30,12 @@ you can take this workshop also it is free. :smile:
 > send me a email: bt0dotninja AT fedoraproject DOT org 
 > just change AT for @ and DOT for .
 
-## Workshop
+## Workshop Agenda
 
 To follow this workshop (easy to follow) step-by-step visit [GeoData.ipynb](GeoData.ipynb) 
 
-To review the technical part visit [scripts](scripts/README.md)
 
 
-## Data sources
-* [datos.gob.mx](https://datos.gob.mx/)
-* [datamx](http://datamx.io/)
-* [Sitio del Secretariado Ejecutivo](http://secretariadoejecutivo.gob.mx/incidencia-delictiva/incidencia-delictiva-datos-abiertos.php)
-* [Sitio hoyodecrimen](https://hoyodecrimen.com/)
-* [Labotatorio para la ciudad](http://datos.labcd.mx/)
-
-## Geographical data and maps
-
-* [OpenStreetMap](http://www.openstreetmap.org)
-* [INEGI](http://www.inegi.org.mx/)
-
-## Data Licenses
-
-* [Libreuso](https://datos.gob.mx/libreusomx) compatible with [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-* [OpenDataLicence (ODbL)](http://opendefinition.org/licenses/odc-odbl/)
 
 ## Software Licences
 
