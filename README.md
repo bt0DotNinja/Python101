@@ -34,10 +34,10 @@ you can take this workshop also it is free. :smile:
 
 To follow this workshop (easy to follow) step-by-step visit [GeoData.ipynb](GeoData.ipynb) 
 
-* [Fedora :heart: Python](https://github.com/bt0DotNinja/Python101)
+* [Fedora :heart: Python](https://slides.com/albertorodriguezsanchez/prueba)
 * Fundamental Data types and basic operators [Notebook1.ipynb](Notebook1)
-* Comparation and Logical Operators [Notebook2](Notebook2)
-* Control Flow and Cycles [Notebook3](Notebook3)
+* Comparation and Logical Operators [Notebook2.ipynb](Notebook2)
+* Control Flow and Cycles [Notebook3.ipynb](Notebook3)
 * Built-in Python Expressions [Notebook4.ipynb](Notebook4)
 
 
